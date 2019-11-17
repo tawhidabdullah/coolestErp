@@ -97,6 +97,8 @@ class ExploreContainer extends Component {
             <Categories categories={categoriesList} />
           </View>
           <SalesReport />
+          <SalesReport />
+          <SalesReport />
           <StockSummaryReport />
         </ScrollView>
         
